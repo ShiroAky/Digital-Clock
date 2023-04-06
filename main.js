@@ -1,7 +1,3 @@
-const btnInput = document.getElementById('input');
-
-const show = document.getElementById('dato');
-
 const dias = document.getElementById('dia');
 const horas = document.getElementById('hora');
 const minutos = document.getElementById('minutos');
